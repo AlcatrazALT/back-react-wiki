@@ -1,1 +1,1 @@
-## Backend part react-wiki-app
+## Backend part of react-wiki-app
